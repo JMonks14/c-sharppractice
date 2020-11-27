@@ -1,0 +1,16 @@
+C:\Users\james\Documents\Git\c-sharppractice\Records\bin\Debug\net5.0\Records.exe
+C:\Users\james\Documents\Git\c-sharppractice\Records\bin\Debug\net5.0\Records.deps.json
+C:\Users\james\Documents\Git\c-sharppractice\Records\bin\Debug\net5.0\Records.runtimeconfig.json
+C:\Users\james\Documents\Git\c-sharppractice\Records\bin\Debug\net5.0\Records.runtimeconfig.dev.json
+C:\Users\james\Documents\Git\c-sharppractice\Records\bin\Debug\net5.0\Records.dll
+C:\Users\james\Documents\Git\c-sharppractice\Records\bin\Debug\net5.0\ref\Records.dll
+C:\Users\james\Documents\Git\c-sharppractice\Records\bin\Debug\net5.0\Records.pdb
+C:\Users\james\Documents\Git\c-sharppractice\Records\obj\Debug\net5.0\Records.csprojAssemblyReference.cache
+C:\Users\james\Documents\Git\c-sharppractice\Records\obj\Debug\net5.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\Git\c-sharppractice\Records\obj\Debug\net5.0\Records.AssemblyInfoInputs.cache
+C:\Users\james\Documents\Git\c-sharppractice\Records\obj\Debug\net5.0\Records.AssemblyInfo.cs
+C:\Users\james\Documents\Git\c-sharppractice\Records\obj\Debug\net5.0\Records.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Git\c-sharppractice\Records\obj\Debug\net5.0\Records.dll
+C:\Users\james\Documents\Git\c-sharppractice\Records\obj\Debug\net5.0\ref\Records.dll
+C:\Users\james\Documents\Git\c-sharppractice\Records\obj\Debug\net5.0\Records.pdb
+C:\Users\james\Documents\Git\c-sharppractice\Records\obj\Debug\net5.0\Records.genruntimeconfig.cache
