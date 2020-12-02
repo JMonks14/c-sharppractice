@@ -1,0 +1,15 @@
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.exe
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.deps.json
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.runtimeconfig.json
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.runtimeconfig.dev.json
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.dll
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\bin\Debug\netcoreapp3.1\WebAPIClient.pdb
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.csprojAssemblyReference.cache
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.AssemblyInfoInputs.cache
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.AssemblyInfo.cs
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.dll
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.pdb
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.genruntimeconfig.cache
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\james\Documents\Git\c-sharppractice\WebAPIClient\obj\Debug\netcoreapp3.1\WebAPIClient.csproj.CopyComplete
